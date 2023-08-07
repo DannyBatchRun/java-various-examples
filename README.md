@@ -1,6 +1,8 @@
 # java-various-examples
-Various Java Examples in Italian Language.<br />
-<br />
+Various Java Examples in Italian Language. There are the following steps before testing this projects :<br />
+1) Clone the Repository with <strong>"git clone"</strong> on Git Bash, or also <strong>download the ZIP file.</strong><br />
+2) Import all Project from your IDE and Enjoy testing!<br />
+<strong>N.B :</strong> All Projects are running under OpenJDK8.
 <h2>Italian</h2>
 <strong>Ascensore</strong> ---> Basato sul funzionamento di un ascensore composto da un limite preciso di passeggeri.<br />
 <strong>AutoCarburante</strong> ---> Calcola il rifornimento del carburante di un automobile<br />
