@@ -14,6 +14,11 @@ Various Java Examples in Italian Language. There are the following steps before 
 <strong>HelloTester</strong> ---> Semplice esempio a video di una stampa o di un messaggio di errore.<br />
 <strong>PiramidePow</strong> ---> Calcola la potenza di un numero.<br />
 <strong>Rettangolo</strong> ---> Determina i calcoli di un rettangolo in geometria.<br />
+<strong>Rifornimento</strong> ---> Rifornisce un Automobile con il Carburante in un prezzo a litri.<br />
+<strong>RifornimentoAuto</strong> ---> Simile al precedente ma con una Classe Automobile con tutti i dettagli.<br />
+<strong>SceltaUtente</strong> ---> Prende una Stringa in input la scelta dell'utente e in base alla risposta, stampa un messaggio a video.<br />
+<strong>TimeConverter</strong> ---> Calcola il numero di secondi in base a giorno, ora, minuti e secondi presi in input.<br />
+<strong>SecondConverter</strong> ---> Come il precedente esercizio ma al contrario. In base ai secondi inseriti, si calcola i giorni, ore, minuti e secondi.<br />
 <br />
 <h2>English</h2>
 <strong>Ascensore</strong> ---> Based on the operation of an elevator composed of a precise limit of passengers.<br />
@@ -26,3 +31,8 @@ Various Java Examples in Italian Language. There are the following steps before 
 <strong>HelloTester</strong> ---> Simple video example of a print or of an error message.<br />
 <strong>PiramidePow</strong> ---> Calculate the power of a number.<br />
 <strong>Rettangolo</strong> ---> Determine the calculations of a rectangle in geometry.<br />
+<strong>Rifornimento</strong> ---> Fills a Car with Fuel at a price per litre.<br />
+<strong>RifornimentoAuto</strong> ---> Similar to the previous but with an Automobile Class with all details.<br />
+<strong>SceltaUtente</strong> ---> It takes the user's choice as a String input and, based on the answer, prints a video message.<br />
+<strong>TimeConverter</strong> ---> Calculate the number of seconds based on the input day, hour, minute and second.<br />
+<strong>SecondConverter</strong> ---> Like the previous exercise but in reverse. Based on the seconds calculates days, hours, minutes and seconds.<br />
